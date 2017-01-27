@@ -1,6 +1,6 @@
 # Random-Maze-Generator-Solver
 
-This is the final machine problem for my Data Structure and Algorithms class. 
+This is the final machine project for my Data Structure and Algorithms class. 
 The goal was to build a random maze generator and solver given the height and the width of the maze. 
 I implemented this through the use of disjoint sets and graphs. For maze generator (see makeMaze function
 in maze.cpp), I implemented a custom graph class that I used to intantiante the vertices and edges that 
