@@ -12,7 +12,7 @@ all the edges(walls) and pops one at random instead of the one with shortest dis
 would create a cycle using the disjoint set object and if it does not, the wall is removed. The maze is thus created. To solve
 the maze I used the BFS algorithm and I implemented the draw functions to depict the maze in a file - "solved.png". 
 
-To view this project, run "make" and then "./testsquaremaze". The height and the width of the maze can be set in the 
+To view this project, run "make" and then "./testsquaremaze". The width and the height of the maze can be set in the 
 testsquaremaze.cpp file by changing "makeMaze(50, 50)".
 
 
