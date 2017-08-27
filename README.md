@@ -1,4 +1,4 @@
-# Random-Maze-Generator-Solver
+# Random-Maze-Generator-Solver AI
 
 This is the final machine project for my Data Structure and Algorithms class. 
 The goal was to build a random maze generator and solver given the height and the width of the maze. 
